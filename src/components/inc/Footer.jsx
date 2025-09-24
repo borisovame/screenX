@@ -30,7 +30,7 @@ export default function Footer() {
           <ul className="flex flex-wrap items-center mb-6 text-sm font-medium text-gray-500 sm:mb-0 dark:text-gray-400">
             <li>
               <a
-                href="https://github.com/borisovame"
+                href="https://github.com/borisovame/screenX"
                 className="hover:underline me-4 md:me-6"
               >
                 Repo
